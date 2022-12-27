@@ -1,4 +1,4 @@
-# Platzi Recetas
+# Moco's Recipe
 
 ![Captura de Recetas](.readme-static/captura.png)
 
