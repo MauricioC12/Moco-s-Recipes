@@ -1,0 +1,18 @@
+{
+  "short_name": "Recipes",
+  "name": "Moco's Recipes",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "512x512",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#ffa500",
+  "background_color": "#ffffff",
+  "related_applictions": [],
+  "prefer_related_applications": false
+}
